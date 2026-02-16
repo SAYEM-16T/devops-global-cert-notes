@@ -7,19 +7,19 @@
 | 5 | EC2 Fundamentals | 1 hr 39 min | 25 hr 52 min | 2 | Feb 2 | Monday |  |
 | 6 | EC2 – SA Level | 34 min | 24 hr 13 min | 2 | Feb 2 | Monday |  |
 | 7 | EC2 Instance Storage | 59 min | 23 hr 39 min | 5 | Feb 5 | Thursday | **Off Day** |
-| 8 | ELB & ASG | 1 hr 34 min | 22 hr 40 min | 5 | Feb 5 | Thursday | **Off Day** |
-| 9 | RDS + Aurora + ElastiCache | 1 hr 10 min | 21 hr 6 min | 6 | Feb 6 | Friday | **Off Day** |
-| 10 | Route 53 | 1 hr 26 min | 19 hr 56 min | 6 | Feb 6 | Friday | **Off Day** |
-| 11 | Classic Architectures | 43 min | 18 hr 30 min | 7 | Feb 7 | Saturday | **Off Day** |
-| 12 | S3 Introduction | 50 min | 17 hr 47 min | 8 | Feb 8 | Sunday |  |
-| 13 | Advanced S3 | 30 min | 16 hr 57 min | 8 | Feb 8 | Sunday |  |
-| 14 | S3 Security | 53 min | 16 hr 27 min | 8 | Feb 8 | Sunday |  |
-| 15 | CloudFront & GA | 33 min | 15 hr 34 min | 8 | Feb 8 | Sunday |  |
-| 16 | Storage Extras | 38 min | 15 hr 1 min | 9 | Feb 9 | Monday |  |
-| 17 | SQS, SNS, Kinesis | 1 hr 21 min | 14 hr 23 min | 9 | Feb 9 | Monday |  |
-| 18 | Containers on AWS | 56 min | 13 hr 2 min | 9 | Feb 9 | Monday |  |
-| 19 | Serverless Overview | 1 hr 23 min | 12 hr 6 min | 10 | Feb 10 | Tuesday |  |
-| 20 | Serverless Architecture | 16 min | 10 hr 43 min | 10 | Feb 10 | Tuesday |  |
+| 8 | ELB & ASG | 1 hr 34 min | 22 hr 40 min | 5 | Feb 16 | Monday |  |
+| 9 | RDS + Aurora + ElastiCache | 1 hr 10 min | 21 hr 6 min | 6 | Feb 17 | Tuesday |  |
+| 10 | Route 53 | 1 hr 26 min | 19 hr 56 min | 6 | Feb 18 | Wednesday |  |
+| 11 | Classic Architectures | 43 min | 18 hr 30 min | 7 | Feb 19 | Thursday |  |
+| 12 | S3 Introduction | 50 min | 17 hr 47 min | 8 | Feb 19 | Thursday |  |
+| 13 | Advanced S3 | 30 min | 16 hr 57 min | 8 | Feb 20 | Friday |  |
+| 14 | S3 Security | 53 min | 16 hr 27 min | 8 | Feb 20 | Friday |  |
+| 15 | CloudFront & GA | 33 min | 15 hr 34 min | 8 | Feb 20 | Friday |  |
+| 16 | Storage Extras | 38 min | 15 hr 1 min | 9 | Feb 20 | Friday |  |
+| 17 | SQS, SNS, Kinesis | 1 hr 21 min | 14 hr 23 min | 9 | Feb 21 | Saturday |  |
+| 18 | Containers on AWS | 56 min | 13 hr 2 min | 9 | Feb 21 | Saturday |  |
+| 19 | Serverless Overview | 1 hr 23 min | 12 hr 6 min | 10 | Feb 21 | Saturday |  |
+| 20 | Serverless Architecture | 16 min | 10 hr 43 min | 10 | Feb 21 | Saturday |  |
 | 21 | Databases in AWS | 26 min | 10 hr 27 min | 11 | Feb 11 | Wednesday | **Off Day** |
 | 22 | Data & Analytics | 48 min | 10 hr 1 min | 11 | Feb 11 | Wednesday | **Off Day** |
 | 23 | Machine Learning | 26 min | 9 hr 13 min | 11 | Feb 11 | Wednesday | **Off Day** |
