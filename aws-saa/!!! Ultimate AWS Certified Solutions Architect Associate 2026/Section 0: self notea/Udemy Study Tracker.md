@@ -28,8 +28,8 @@
 | 26 | Security & Encryption | 1 hr 25 min | 6 hr 43 min | 13 | Feb 26 | Thursday | **Off Day** |
 | 27 | Networking – VPC | 2 hr 38 min | 5 hr 18 min | 14 | Feb 27 | Friday | **Off Day** |
 | 28 | DR & Migrations | 44 min | 2 hr 40 min | 15 | Feb 28 | Saturday |  |
-| 29 | More Architectures | 27 min | 1 hr 56 min | 15 | Mar 1 | Sunday |  |
-| 30 | Other Services | 48 min | 1 hr 29 min | 15 | Mar 2 | Monday |  |
-| 31 | WhitePapers | 15 min | 41 min | 16 | Mar 3 | Tuesday | **Off Day** |
-| 32 | Exam + Practice | 17 min | 26 min | 16 | Mar 4 | Wednesday | **Off Day** |
-| 33 | Congratulations | 9 min | 9 min | 16 | Mar 5 | Thursday | **Off Day** |
+| 29 | More Architectures | 27 min | 1 hr 56 min | 15 | Feb 28 | Saturday |  |
+| 30 | Other Services | 48 min | 1 hr 29 min | 15 | Feb 28 | Saturday |  |
+| 31 | WhitePapers | 15 min | 41 min | 16 | Feb 28 | Saturday | **Off Day** |
+| 32 | Exam + Practice | 17 min | 26 min | 16 | Feb 28 | Saturday | **Off Day** |
+| 33 | Congratulations | 9 min | 9 min | 16 | Feb 28 | Saturday | **Off Day** |
